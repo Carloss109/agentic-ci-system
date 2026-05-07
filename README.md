@@ -7,8 +7,6 @@
 
 **🌐 https://[carloss109].github.io/agentic-ci-system/**
 
-> Replace `[team7]` with your GitHub username before submission.
-
 ---
 
 ## Team
